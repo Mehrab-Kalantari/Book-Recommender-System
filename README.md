@@ -36,3 +36,4 @@ In this part we use collaborative filtering method to build a recommender system
   
   **Sample for a random user**
   ![s](sample/user.png)
+  ![ss](sample/user2.png)
